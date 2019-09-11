@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://chongniki.github.io/</loc>
+    <lastmod>2019-09-09T16:34:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chongniki.github.io/about/</loc>
+    <lastmod>2019-09-09T16:34:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chongniki.github.io/projects/</loc>
+    <lastmod>2019-09-09T16:32:25-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chongniki.github.io/links/</loc>
+    <lastmod>2019-09-09T15:56:17-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chongniki.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chongniki.github.io/tags/</loc>
+  </url>
+  
+</urlset>
