@@ -22,12 +22,24 @@ Over the years, I have created a considerable presence online, on mediums such a
     </item>
     
     <item>
+      <title>Fitbit Analysis</title>
+      <link>https://chongniki.github.io/fitbit_project/</link>
+      <pubDate>Mon, 09 Sep 2019 16:32:25 -0700</pubDate>
+      
+      <guid>https://chongniki.github.io/fitbit_project/</guid>
+      <description>I recently got a fitbit, and have been using it for the past 2 months or so. Curious, I decided to download my fitbit data to explore with. I am an avid believer in learning by doing - which is why I decided to practice my data cleaning and analysis skills with my own fitbit data.
+During this project, 80% of my time was spent cleaning and compling my data into a large dataframe which I could then manipulate.</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://chongniki.github.io/projects/</link>
       <pubDate>Mon, 09 Sep 2019 16:32:25 -0700</pubDate>
       
       <guid>https://chongniki.github.io/projects/</guid>
-      <description>Fitbit Analysis Topic Modelling of Tweets Web Scraping with Selenium </description>
+      <description>Fitbit Analysis Will I take a nap today? A an analysis of my Fitbit data.
+Topic Modelling of Tweets What are the topics have I been talking about the most? My first NLP attempt.
+Web Scraping with Selenium Crawling the web for data.</description>
     </item>
     
     <item>
@@ -36,7 +48,7 @@ Over the years, I have created a considerable presence online, on mediums such a
       <pubDate>Mon, 09 Sep 2019 15:56:17 -0700</pubDate>
       
       <guid>https://chongniki.github.io/links/</guid>
-      <description>github linkedin facebook twitter </description>
+      <description> github linkedin facebook twiter </description>
     </item>
     
   </channel>
