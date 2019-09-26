@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://chongniki.github.io/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Sep 2019 16:32:25 -0700</lastBuildDate>
+    
+	<atom:link href="https://chongniki.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fitbit Analysis</title>
+      <link>https://chongniki.github.io/posts/fitbit_project/</link>
+      <pubDate>Mon, 09 Sep 2019 16:32:25 -0700</pubDate>
+      
+      <guid>https://chongniki.github.io/posts/fitbit_project/</guid>
+      <description>I recently got a fitbit, and have been using it for the past 2 months or so. Curious, I decided to download my fitbit data to explore with. I am an avid believer in learning by doing - which is why I decided to practice my data cleaning and analysis skills with my own fitbit data.
+During this project, 80% of my time was spent cleaning and compling my data into a large dataframe which I could then manipulate.</description>
+    </item>
+    
+  </channel>
+</rss>
